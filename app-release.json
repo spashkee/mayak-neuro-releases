@@ -1,8 +1,8 @@
 {
-  "versionName": "0.8.0-alpha.3",
-  "versionCode": 4,
-  "tag": "v0.8.0-alpha.3",
+  "versionName": "0.8.0-alpha.4",
+  "versionCode": 5,
+  "tag": "v0.8.0-alpha.4",
   "prerelease": true,
-  "apkUrl": "https://github.com/spashkee/mayak-neuro-releases/releases/download/v0.8.0-alpha.3/mayak-release.apk",
-  "releaseUrl": "https://github.com/spashkee/mayak-neuro-releases/releases/tag/v0.8.0-alpha.3"
+  "apkUrl": "https://github.com/spashkee/mayak-neuro-releases/releases/download/v0.8.0-alpha.4/mayak-release.apk",
+  "releaseUrl": "https://github.com/spashkee/mayak-neuro-releases/releases/tag/v0.8.0-alpha.4"
 }
